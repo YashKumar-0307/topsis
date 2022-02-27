@@ -9,7 +9,7 @@ setup(
     long_description_content_type = "text/markdown",
     author = "Yash Kumar",
     author_email = "ykumar1_be19@thapar.edu",
-    url = "https://github.com/YashKumar-0307/topsis/archive/refs/tags/0.0.1.tar.gz",
+    url = "https://github.com/YashKumar-0307/topsis/archive/refs/tags/0.0.2.tar.gz",
     keywords = ['topsis', 'UCS654', '101903780'],
     packages = find_packages(),
     include_package_data = True,
