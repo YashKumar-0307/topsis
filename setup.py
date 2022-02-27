@@ -9,7 +9,7 @@ setup(
     long_description_content_type = "text/markdown",
     author = "Yash Kumar",
     author_email = "ykumar1_be19@thapar.edu",
-    url = "https://github.com/daxter-army/topsis_python_package",
+    url = "https://github.com/YashKumar-0307/topsis/archive/refs/tags/0.0.1.tar.gz",
     keywords = ['topsis', 'UCS538', 'TIET'],
     packages = find_packages(),
     include_package_data = True,
